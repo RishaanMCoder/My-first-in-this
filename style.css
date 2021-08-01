@@ -1,0 +1,18 @@
+#app{
+    background-color: aqua;
+}
+#games{
+    background-color: cyan;
+}
+#nightbot{
+    background-color: blue;
+}
+html{
+    background-color: red;
+}
+img{
+    transition: transform 2s;
+}
+img:hover{
+    transform: scale(0.9)
+}
